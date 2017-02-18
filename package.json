@@ -1,0 +1,19 @@
+{
+  "name": "webpack2-hands-on",
+  "version": "1.0.0",
+  "description": "1. Initial project configuration\r 2. Bundling using Webpack\r 3. Webpack configuration\r   - Entry points\r   - Output\r   - Composing configuration file\r 4. Webpack Plugin\r   - Have HTML file generated\r   - Let Browser Refresh Automatically\r   - Dancing with Hot Module Replacement\r 5. Webpack Loader\r   - CSS Loader\r   - Remove Unused CSS\r   - Images Loader\r   - Font Loader\r   - ES6\r   - Linting JavaScript\r 6. Development\r   - Source Mapping\r 7. Code splitting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passionateseeds/Webpack2-Hands-on.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/passionateseeds/Webpack2-Hands-on/issues"
+  },
+  "homepage": "https://github.com/passionateseeds/Webpack2-Hands-on#readme"
+}
