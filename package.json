@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/passionateseeds/Webpack2-Hands-on/issues"
   },
-  "homepage": "https://github.com/passionateseeds/Webpack2-Hands-on#readme"
+  "homepage": "https://github.com/passionateseeds/Webpack2-Hands-on#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
 }
